@@ -7,7 +7,8 @@ This example uses White Label Login and can be used cross platform on any device
 Read more on our blog about Player Files;
 https://lootlocker.com/guides/cloud-saves-lootlocker-player-files
 
-And for more information about the feature, check out our documentation;
+For more information about the feature, check out our documentation;
 https://docs.lootlocker.com/players/player-manager/player-files
 
 Video showcasing the potential use cases of Player Files:
+https://www.youtube.com/watch?v=oAd1DClxghc
